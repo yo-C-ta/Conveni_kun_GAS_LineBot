@@ -1,4 +1,4 @@
-# Convinience store new product bot via LINE on Google Apps Script
+# Convenience store new product bot via LINE on Google Apps Script
 
 ## Keyword for bot
 
